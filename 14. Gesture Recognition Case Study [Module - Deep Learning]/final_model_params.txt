@@ -1,0 +1,7 @@
+Model 4 (Memory Efficient - Conv3D)
+
+sampled_frames = 18
+img_height = 160
+img_width = 160
+num_epochs = 30
+batch_size = 50
